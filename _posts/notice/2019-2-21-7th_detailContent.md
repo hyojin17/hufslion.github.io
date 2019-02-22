@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 7기 모집 세부사항
+category: notice
 ---
 
 추가로 공지할 모집 세부사항 정리중입니다.
