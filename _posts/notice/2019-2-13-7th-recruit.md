@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 7기 모집
+category: notice
 ---
 Likelion 7th Recruit!
 
