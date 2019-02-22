@@ -44,7 +44,7 @@ category: test
 ## ★Q&A★
 * * *
 ![7기모집카드뉴스1](https://user-images.githubusercontent.com/37537330/53237040-159e2680-36d9-11e9-8bed-55cc5d44d390.png)
-![7기모집카드뉴스1]([https://user-images.githubusercontent.com/37537330/53237041-159e2680-36d9-11e9-9457-8e962795e5b9.png)
+![7기모집카드뉴스1](https://user-images.githubusercontent.com/37537330/53237041-159e2680-36d9-11e9-9457-8e962795e5b9.png)
 ![7기모집카드뉴스1](https://user-images.githubusercontent.com/37537330/53237042-159e2680-36d9-11e9-8dd6-de053ec569d6.png)
 ![7기모집카드뉴스1](https://user-images.githubusercontent.com/37537330/53237043-1636bd00-36d9-11e9-8b43-ad822914d712.png)
 ![7기모집카드뉴스1](https://user-images.githubusercontent.com/37537330/53237044-1636bd00-36d9-11e9-98a4-72a59aa23f75.png)
