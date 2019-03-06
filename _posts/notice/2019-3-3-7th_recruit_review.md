@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 7기 모집 - 이전 기수들 후기
+title: 7기 모집 - 후기 전문
 category: notice
 ---
 
