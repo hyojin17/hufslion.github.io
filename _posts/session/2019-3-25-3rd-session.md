@@ -631,7 +631,7 @@ git 명령어에 대한 설명은 세션 ppt참고!
       
  # PPT참고
  
- [세션3_PPT다운] (https://github.com/hyojin17/session3_folder/issues/1#issue-419178047)
+ [세션3_PPT다운] (https://github.com/hyojin17/session3_folder/issues/1#issuecomment-471284929)
       
  
 
